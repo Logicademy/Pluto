@@ -3,8 +3,8 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Logicademy/Pluto/actions/workflows/build_and_release.yml">
-    <img src="https://github.com/Logicademy/PYNQ-SoC-Builder/actions/workflows/build_and_release.yml/badge.svg" alt="Weekly Build and Release">
+  <a href="https://github.com/Logicademy/Pluto/actions/workflows/test-main.yml">
+    <img src="https://github.com/Logicademy/Pluto/actions/workflows/test-main.yml/badge.svg" alt="Test Main">
   </a>
 </div>
 
