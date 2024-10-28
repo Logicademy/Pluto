@@ -2,6 +2,12 @@
   <img src="docs/pluto_title.png" />
 </p>
 
+<div align="center">
+  <a href="https://github.com/Logicademy/Pluto/actions/workflows/test-main.yml">
+    <img src="https://github.com/Logicademy/Pluto/actions/workflows/test-main.yml/badge.svg" alt="Test Main">
+  </a>
+</div>
+
 # RISC-V Assembler
 
 Pluto is a RISC-V Assembler embedded in a Jupyter Notebook environment. Pluto can support the following instructions:
