@@ -15,10 +15,10 @@
 
 ## Getting Started
 
-1. Place the files [Main.ipynb](https://github.com/Logicademy/Pluto/blob/main/Main.ipynb) and [RISCV-Assembler.ipynb](https://github.com/Logicademy/Pluto/blob/main/RISCV-Assembler.ipynb) in the same directory within your Jupyter Notebook environment.
-   - **Optional**: Upload the [themes](https://github.com/Logicademy/Pluto/tree/main/themes) directory
+1. Place the files [Main.ipynb](https://github.com/Logicademy/Pluto/blob/main/src/Main.ipynb) and [RISCV-Assembler.ipynb](https://github.com/Logicademy/Pluto/blob/main/src/RISCV-Assembler.ipynb) in the same directory within your Jupyter Notebook environment.
+   - **Optional**: Upload the [themes](https://github.com/Logicademy/Pluto/tree/main/src/themes) directory
    
-2. Open and run [Main.ipynb](https://github.com/Logicademy/Pluto/blob/main/Main.ipynb). This file serves as the main interface, providing an interactive code editor for writing and assembling RISC-V assembly code.
+2. Open and run [Main.ipynb](https://github.com/Logicademy/Pluto/blob/main/src/Main.ipynb). This file serves as the main interface, providing an interactive code editor for writing and assembling RISC-V assembly code.
 
 3. The code editor in `Main.ipynb` includes:
    - **RISC-V Syntax Highlighting**: Highlighting for instructions, labels, registers, directives, and immediate values.
